@@ -9,7 +9,8 @@ set smartindent
 set hlsearch
 set ignorecase
 set incsearch
-set clipboard=unnamedplus
+set clipboard=unnamed
+
 set mouse=a
 imap jk <Esc>
 set list listchars=tab:\|\ ,trail:·,eol:↲
